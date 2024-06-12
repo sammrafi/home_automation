@@ -34,7 +34,7 @@ void loop() {
     if(voice=="orange")
   {
     digitalWrite(Orange,HIGH);
-  } else if(voice=="Orange off")
+  } else if(voice=="orange off")
   {
     digitalWrite(Orange,LOW);
   }
@@ -43,7 +43,7 @@ void loop() {
   if(voice=="red")
   {
     digitalWrite(Red,HIGH);
-  } else if(voice=="read off")
+  } else if(voice=="red off")
   {
     digitalWrite(Red,LOW);
   }
